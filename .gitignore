@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.scikit_learn_data/
+results/*
+!results/.gitkeep
